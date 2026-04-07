@@ -1,27 +1,27 @@
 [
     {
-      "name": "Something",
-      "type": "DeFi",
-      "logo": "https://apricot-capable-rat-626.mypinata.cloud/ipfs/bafkreia6kcth4yagcbquyuc5vfxzuxwmcn22vorhhdjssvhjuojlzj2pga",
-      "website": "https://monad.something.tools",
-      "description": "Something delivers a full launchpad with flexible migration fees, a highly customizable AMM, and revenue sharing for creators.",
-      "monad_exclusive": false,
-      "contracts": [
-        "0x00F4353C69039b25c9338097FfF51099981E00ce"
-      ]
+        "name": "Something",
+        "type": "DeFi",
+        "logo": "https://apricot-capable-rat-626.mypinata.cloud/ipfs/bafkreia6kcth4yagcbquyuc5vfxzuxwmcn22vorhhdjssvhjuojlzj2pga",
+        "website": "https://monad.something.tools",
+        "description": "Something delivers a full launchpad with flexible migration fees, a highly customizable AMM, and revenue sharing for creators.",
+        "monad_exclusive": false,
+        "contracts": [
+            "0x00F4353C69039b25c9338097FfF51099981E00ce"
+        ]
     },
     {
-      "name": "SomeSwap",
-      "type": "DeFi",
-      "logo": "https://apricot-capable-rat-626.mypinata.cloud/ipfs/bafkreicmt3l656cb6nhlotxlnvb6togtzgvc5sds32a7tnydwiwmokmepu",
-      "website": "https://someswap.org",
-      "description": "SomeSwap is a next-generation AMM and DEX built on Monad, featuring Chameleon Pools, dynamic fee tiers, anti-sniping protection, and Chimera smart routing. It powers trading, liquidity, and token launches across the Something ecosystem.",
-      "monad_exclusive": true,
-      "contracts": [
-        "0x00008A3c1077325Bb19cd93e5a0f1E95144700fa",
-        "0x000799B28aE9C3E9ca70B7Ff67b191519ab80fee",
-        "0x001176F5eF99F53Eae957Bb2Fb2aE93E9b6F110c"
-      ]
+        "name": "SomeSwap",
+        "type": "DeFi",
+        "logo": "https://apricot-capable-rat-626.mypinata.cloud/ipfs/bafkreicmt3l656cb6nhlotxlnvb6togtzgvc5sds32a7tnydwiwmokmepu",
+        "website": "https://someswap.org",
+        "description": "SomeSwap is a next-generation AMM and DEX built on Monad, featuring Chameleon Pools, dynamic fee tiers, anti-sniping protection, and Chimera smart routing. It powers trading, liquidity, and token launches across the Something ecosystem.",
+        "monad_exclusive": true,
+        "contracts": [
+            "0x00008A3c1077325Bb19cd93e5a0f1E95144700fa",
+            "0x000799B28aE9C3E9ca70B7Ff67b191519ab80fee",
+            "0x001176F5eF99F53Eae957Bb2Fb2aE93E9b6F110c"
+        ]
     },
     {
         "name": "0x",
@@ -275,7 +275,7 @@
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1551945866793164802/KmcIMByo_400x400.jpg",
         "website": "https://cashmere.exchange",
-        "description": "Autonomous Monetary Infrastructure for stablecoins — a unified layer that powers zero-slippage omnichain transfers, yield agent, on/off ramps, privacy transfers directly on https://app.cashmere.exchange.",
+        "description": "Autonomous Monetary Infrastructure for stablecoins \u2014 a unified layer that powers zero-slippage omnichain transfers, yield agent, on/off ramps, privacy transfers directly on https://app.cashmere.exchange.",
         "monad_exclusive": false,
         "contracts": [
             "0xD156fFB54871F4562744d6Be5d6321B5BffCa3B6"
@@ -632,7 +632,7 @@
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1861248882824593408/h5CrU_s__400x400.jpg",
         "website": "https://eisenfinance.com",
-        "description": "A multichain DEX & CEX aggregator—streamline every swap.",
+        "description": "A multichain DEX & CEX aggregator\u2014streamline every swap.",
         "monad_exclusive": false,
         "contracts": [
             "0x787C474B8A86354d0F5f19FB599a5FC7662A265f",
@@ -706,7 +706,7 @@
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1955253205832699904/83uUswbn_400x400.jpg",
         "website": "https://garden.finance/",
-        "description": "Garden is transforming Bitcoin interoperability with its next-gen bridge. It is built by the renBTC team using an intents based architecture with trustless settlement, enabling cross-chain Bitcoin swaps in as little as 30 seconds with zero custody risk.\n\nIn its first year, Garden processed over $1 billion in volume—proving the market’s demand for seamless, cost-effective Bitcoin bridging solutions.\n\nNow, Garden is unlocking a new era of interoperability—supporting non-likewise assets, external liquidity, and a wallet-friendly API—to onboard the next wave of partners and users.",
+        "description": "Garden is transforming Bitcoin interoperability with its next-gen bridge. It is built by the renBTC team using an intents based architecture with trustless settlement, enabling cross-chain Bitcoin swaps in as little as 30 seconds with zero custody risk.\n\nIn its first year, Garden processed over $1 billion in volume\u2014proving the market\u2019s demand for seamless, cost-effective Bitcoin bridging solutions.\n\nNow, Garden is unlocking a new era of interoperability\u2014supporting non-likewise assets, external liquidity, and a wallet-friendly API\u2014to onboard the next wave of partners and users.",
         "monad_exclusive": false,
         "contracts": [
             "0xE413743B51f3cC8b3ac24addf50D18fa138cB0Bb",
@@ -829,7 +829,7 @@
         "contracts": [
             "0x3d3c1Db86989eD5196358eE03e2F1258EA183dCB",
             "0xa0371d51C086f846Bd02c331DD31cc510645332e",
-			"0xa2c272C0D4fd83587ce3A4e81FA3Ad0eB9d63F9D"
+            "0xa2c272C0D4fd83587ce3A4e81FA3Ad0eB9d63F9D"
         ]
     },
     {
@@ -948,7 +948,7 @@
         "type": "Gaming",
         "logo": "https://m0narch.xyz/logo.jpg",
         "website": "https://m0narch.xyz",
-        "description": "M0narch is provably fair, fully on‑chain iGaming platform",
+        "description": "M0narch is provably fair, fully on\u2011chain iGaming platform",
         "monad_exclusive": true,
         "contracts": [
             "0x5B159027C1BcFDADd11CB5b44519251DbADb3749",
@@ -963,7 +963,7 @@
         "type": "Gaming",
         "logo": "https://pbs.twimg.com/profile_images/1947490514921488384/TLSJg7Z5_400x400.jpg",
         "website": "https://lootgo.app",
-        "description": "LootGO is a walk-to-earn mobile app that turns your steps into a real-world crypto treasure hunt. Think: Pokémon GO, but with crypto rewards.",
+        "description": "LootGO is a walk-to-earn mobile app that turns your steps into a real-world crypto treasure hunt. Think: Pok\u00e9mon GO, but with crypto rewards.",
         "monad_exclusive": false,
         "contracts": [
             "0x3E1fC8371bf6dCEFfd829ae2134005a4AE890b71"
@@ -1051,7 +1051,7 @@
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1992936326153244672/Qqu1LGXS_400x400.jpg",
         "website": "https://mayan.finance/",
-        "description": "Mayan is a lightning-fast, intent-based cross-chain swap protocol that makes transfers seamless, instant, and cost-effective. Move any asset directly into Monad through our simple swap interface or integrate Mayan’s SDK and widget for seamless cross-chain liquidity.",
+        "description": "Mayan is a lightning-fast, intent-based cross-chain swap protocol that makes transfers seamless, instant, and cost-effective. Move any asset directly into Monad through our simple swap interface or integrate Mayan\u2019s SDK and widget for seamless cross-chain liquidity.",
         "monad_exclusive": false,
         "contracts": [
             "0x337685fdaB40D39bd02028545a4FfA7D287cC3E2",
@@ -1064,7 +1064,7 @@
         "type": "NFT",
         "logo": "https://pbs.twimg.com/profile_images/1780703842142941184/bcu1af6z_400x400.jpg",
         "website": "https://mintpad.co/",
-        "description": "Something like this ok - Mintpad is the easiest way to launch NFTs on any EVM chain — completely free for creators. Upload your art, customize your mint page, and deploy fully-owned smart contracts in minutes with zero coding required. Mintpad handles all the technical heavy lifting so you can focus on creating and building your community. It’s the fastest, simplest, and most accessible way for anyone to launch an NFT collection.",
+        "description": "Something like this ok - Mintpad is the easiest way to launch NFTs on any EVM chain \u2014 completely free for creators. Upload your art, customize your mint page, and deploy fully-owned smart contracts in minutes with zero coding required. Mintpad handles all the technical heavy lifting so you can focus on creating and building your community. It\u2019s the fastest, simplest, and most accessible way for anyone to launch an NFT collection.",
         "monad_exclusive": false,
         "contracts": [
             "0xaaae0243007AA3000000d8e8bEeF0a944A0d3900"
@@ -1184,7 +1184,19 @@
             "0x39AA4ECB48c52A018B2a1A700B89C4912FC39967",
             "0xBEAaFcc7648354a0722350378bF2A295B9b946A8",
             "0xbB1b4eE5D22ca19faa5aA9A55Caf4abAEd14607B",
-            "0x11B83A467AbFF4c466294af94B99ACEF3D85929d"
+            "0x11B83A467AbFF4c466294af94B99ACEF3D85929d",
+            "0xFfbfB423dE2a5305004aeA3bdF6bD4917E87A962",
+            "0xdE5C871Fb0626562E9Acecc3c5b0EB12C298d8BC",
+            "0xEeBB73F7B52cD86ABc76e1fce2b5a38A684BCacc",
+            "0x0badb8f24327074CF94d6398E1B722e201c0BBf0",
+            "0x33F906D6c6aA65fb3055f2028dc394033C3310F3",
+            "0xBF3727f9aee1140870AF3303fba52537536F8e5D",
+            "0x49a3F93deDca36c7FA5Af695e89eEa0f03a1A11a",
+            "0xf485d6F84537bdf3A2096508652F9a6876975A8C",
+            "0xbF34070fEEF2063277626904F7BF736D70826604",
+            "0xb0279eB0cD894f9964c1945D9543FD6fc5C929fE",
+            "0xB3aFCc826F9dBF2A1a9F78a2ddDCD12517589267",
+            "0xAC55756556df38D9Be82AaDd31ac3849EC7826E2"
         ]
     },
     {
@@ -1440,7 +1452,7 @@
         "type": "Infrastructure",
         "logo": "https://avatars.githubusercontent.com/u/111639885?s=200&v=4",
         "website": "https://pay.primuslabs.xyz",
-        "description": "zkTLS enables rule-based token distribution without ever needing to know the recipient’s wallet address.",
+        "description": "zkTLS enables rule-based token distribution without ever needing to know the recipient\u2019s wallet address.",
         "monad_exclusive": false,
         "contracts": [
             "0xa2e0700a269Be3158c81E4739518b324d4398588",
@@ -2127,7 +2139,7 @@
         "type": "DePIN",
         "logo": "https://pbs.twimg.com/profile_images/1844811987034972160/OkkeVD3C_400x400.jpg",
         "website": "http://thevapelabs.io",
-        "description": "TheVapeLabs is the world’s first AI-powered smart vape brand, built on Monad. We help people cut down and quit nicotine with real-time tracking, personalized AI tips and incentives. Users can even flex their NFTs right on the device, bringing on-chain culture into real life.",
+        "description": "TheVapeLabs is the world\u2019s first AI-powered smart vape brand, built on Monad. We help people cut down and quit nicotine with real-time tracking, personalized AI tips and incentives. Users can even flex their NFTs right on the device, bringing on-chain culture into real life.",
         "monad_exclusive": false,
         "contracts": [
             "0xfA2F863Eb512434E99E2365Fa5f7AC7674DDe000",
@@ -2153,7 +2165,7 @@
         "type": "DeFi",
         "logo": "https://pbs.twimg.com/profile_images/1993957015132209153/v64sdIcG_400x400.jpg",
         "website": "https://memenads.fun",
-        "description": "Memenads.fun is a one-click meme token launchpad that lets anyone create, deploy, and trade meme coins instantly. No coding required—launch your token in seconds and grow your community with built-in tools.",
+        "description": "Memenads.fun is a one-click meme token launchpad that lets anyone create, deploy, and trade meme coins instantly. No coding required\u2014launch your token in seconds and grow your community with built-in tools.",
         "monad_exclusive": true,
         "contracts": [
             "0x0d3c2cfab83920236f266e70076b0d502cd060d0",
@@ -2167,7 +2179,9 @@
         "website": "https://www.wrdl.fun/",
         "description": "Wrdl.fun is an on-chain word game built on Monad, inspired by the iconic Wordle format and enhanced with real on-chain incentives",
         "monad_exclusive": true,
-        "contracts": ["0x6FBB86d5940B11E23056a66a948d97289Bd320eB"]
+        "contracts": [
+            "0x6FBB86d5940B11E23056a66a948d97289Bd320eB"
+        ]
     },
     {
         "name": "Curvance",
@@ -2240,13 +2254,13 @@
         "description": "Unleash your creativity and draw your yield bearing NFTs. Play to earn with multiplayer drawing-guessing game.",
         "monad_exclusive": false,
         "contracts": [
-			"0xC8bB93e4f11665D76C704d973e744d78b3d32A2c",
-			"0x2aF76C4e57886Aac03329a6dfF02761F250848A3",
-			"0xb25Ef8643414e6bb29E9eF24E8fD7dC9115b26e1",
+            "0xC8bB93e4f11665D76C704d973e744d78b3d32A2c",
+            "0x2aF76C4e57886Aac03329a6dfF02761F250848A3",
+            "0xb25Ef8643414e6bb29E9eF24E8fD7dC9115b26e1",
             "0x1f5E4a0fFaB85E5BBa68f73f878117eD314e4452",
             "0x9Cc79CE554a6CebCE2EC90DAb0F77E6b08e89563"
-		]
-	},
+        ]
+    },
     {
         "name": "dFusion AI",
         "type": "AI, Infrastructure",
@@ -2255,27 +2269,27 @@
         "description": "dFusion AI turns curated data into specialized & accurate AI subnets, aligning usage, incentives, and ownership.",
         "monad_exclusive": true,
         "contracts": [
-			"0x9ED42CeBA267C3f7728Cc1F559cd7b545D7CD7d4"
-		]
-	},     
-	{
-	  "name": "Monday Trade",
-	  "type": "DeFi",
-	  "logo": "https://mondaytrade.notion.site/Monday-Trade-Brand-Kit-1f948d36614f807bb374c003d7c35e70",
-	  "website": "https://app.monday.trade",
-	  "description": "Monday Trade is Monad’s native spot and perps DEX that offers the best of CEX and DEX trading experience",
-	  "monad_exclusive": true,
-	  "contracts": [
-	    "0xAD8974D98f7fc386e396FFE826B886cf20AfE232",
-	    "0x68b507BF58ED32173f41FF20aa2494A569daeC44",
-	    "0xB97eCD41Aef0F842E773C8F9905919cDE49880C9",
-	    "0xFE951b693A2FE54BE5148614B109E316B567632F",
-	    "0xC1e98D0A2a58fB8aBd10ccc30a58efff4080Aa21",
-	    "0xdc67221ea8D223E0A1D0948eDeCB634cAF190eC9",
-	    "0x15bC3C13cbf5903E78b97208ba1021E5dc1B4470",
-	    "0x2E32345Bf0592bFf19313831B99900C530D37d90",
-	    "0xdfBA572929De47838BdE12336dfE8842B06d9628",
-	    "0x5FE49fb8770A8009335B1d76496c3e07Ca04FC9F"
-	  ]
-	}
+            "0x9ED42CeBA267C3f7728Cc1F559cd7b545D7CD7d4"
+        ]
+    },
+    {
+        "name": "Monday Trade",
+        "type": "DeFi",
+        "logo": "https://mondaytrade.notion.site/Monday-Trade-Brand-Kit-1f948d36614f807bb374c003d7c35e70",
+        "website": "https://app.monday.trade",
+        "description": "Monday Trade is Monad\u2019s native spot and perps DEX that offers the best of CEX and DEX trading experience",
+        "monad_exclusive": true,
+        "contracts": [
+            "0xAD8974D98f7fc386e396FFE826B886cf20AfE232",
+            "0x68b507BF58ED32173f41FF20aa2494A569daeC44",
+            "0xB97eCD41Aef0F842E773C8F9905919cDE49880C9",
+            "0xFE951b693A2FE54BE5148614B109E316B567632F",
+            "0xC1e98D0A2a58fB8aBd10ccc30a58efff4080Aa21",
+            "0xdc67221ea8D223E0A1D0948eDeCB634cAF190eC9",
+            "0x15bC3C13cbf5903E78b97208ba1021E5dc1B4470",
+            "0x2E32345Bf0592bFf19313831B99900C530D37d90",
+            "0xdfBA572929De47838BdE12336dfE8842B06d9628",
+            "0x5FE49fb8770A8009335B1d76496c3e07Ca04FC9F"
+        ]
+    }
 ]
